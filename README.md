@@ -1,2 +1,2 @@
 # CSS-Specificity
-Getting Started with CSS , Excersice helps in understanding - Selector and advantages of id attribute over others 
+Getting Started with CSS , Exercise helps in understanding - Selector and advantages of id attribute over others 
